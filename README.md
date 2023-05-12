@@ -1,4 +1,5 @@
-# Cordova plugin NativeStorage
+# Cordova plugin NativeStorage V3
+
 
 
 *** 
@@ -6,10 +7,10 @@
 Cite this plugin:
 ```latex
 @misc{callebautNS,
-author =   {Gilles Callebaut and Alok Rajiv},
-title =    {{NativeStorage - A Cordova Plugin}},
+author =   {Fain Gabriele and Gilles Callebaut and Alok Rajiv},
+title =    {{NativeStorage V3 - A Cordova Plugin}},
 doi = {10.5281/zenodo.1312615},
-howpublished = {\url{https://github.com/TheCocoaProject/cordova-plugin-nativestorage}},
+howpublished = {\url{https://github.com/gafain/cordova-plugin-nativestorage-v3}},
 }
 ```
 
@@ -24,6 +25,7 @@ Documentation about the API prior to v2 can be found at the [wiki](https://githu
 ***
 
 The plugin was created and developed by [Gilles Callebaut](https://be.linkedin.com/in/gilles-callebaut-46a751104), in the scope of an [IWT/VlAIO](http://www.vlaio.be/english) Tetra project [CrossMoS](https://www.msec.be/crossmos/) which assesses Mobile Cross-Platform Tools. This wouldn't be possible without the contributions of [Alok Rajiv](https://github.com/alokrajiv), our Cordova and JavaScript guru.
+This Fork is to enable Promise call support for modern Type Script [Gabriele Fain](https://www.fineware.it/)
 
 Please consider reading our [wiki](https://github.com/TheCocoaProject/cordova-plugin-nativestorage/wiki) for more documentation about this plugin.
 
