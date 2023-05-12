@@ -1,14 +1,15 @@
 {
-    "name": "cordova-plugin-nativestorage",
-    "version": "2.3.2",
-    "description": "Native storage of variables in Android, iOS and Windows",
+    "name": "cordova-plugin-nativestorage-v3",
+    "version": "3.0.0",
+    "description": "Native storage of variables in Android, iOS",
     "author": "Gilles Callebaut <callebaut.gilles@gmail.com>",
     "contributors":[
       {"name":"Alok Rajiv"},
       {"name":"Yann Deshayes", "email": "deshayes.yann@gmail.com", "url": "https://github.com/ydeshayes"}
+      {"name":"Gabriele fain", "email": "gabriele@fineware.it", "url": "https://github.com/gafain"}
     ],
     "cordova": {
-        "id": "cordova-plugin-nativestorage",
+        "id": "cordova-plugin-nativestorage-v3",
         "platforms": [
             "android",
             "ios",
@@ -19,7 +20,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/TheCocoaProject/cordova-plugin-nativestorage"
+        "url": "https://github.com/TheCocoaProject/cordova-plugin-nativestorage-v3"
     },
     "scripts": {
         "test": "npm run jshint",
@@ -43,7 +44,7 @@
         "jshint": "^2.9.1"
     },
     "bugs":{
-        "url" : "https://github.com/TheCocoaProject/cordova-plugin-nativestorage/issues"
+        "url" : "https://github.com/gafain/cordova-plugin-nativestorage-v3/issues"
     },
-    "homepage": "https://github.com/TheCocoaProject/cordova-plugin-nativestorage#README.md"
+    "homepage": "https://github.com/gafain/cordova-plugin-nativestorage-v3#README.md"
 }
